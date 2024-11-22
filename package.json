@@ -1,7 +1,6 @@
 {
-  "homepage": "https://ganeshm04.github.io/EMS",
+  "homepage": "https://ganeshm04.github.io/EMS/",
   "name": "03-employee-management-system",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
